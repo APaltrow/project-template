@@ -20,7 +20,7 @@ This is a template for starting a project with all initial config.
 
 ```javascript
 
-git clone *link here*
+git clone https://github.com/APaltrow/project-template.git
 
 npm install
 
